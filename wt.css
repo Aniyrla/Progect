@@ -1,0 +1,46 @@
+nav {
+   font-family:'Times New Roman', Times, serif; 
+   font-size: 10pt;
+}
+h3 {
+    text-align: right;
+}
+.bold-green {
+    font-weight: bold;
+    color: green;
+}
+.right-aling {
+    text-align: right;
+    font-style: italic;
+}
+.center-align {
+    text-align: center;
+    text-decoration: underline;
+}
+.term {
+    margin-left: 20px;
+}
+
+.description {
+    margin-left: 40px;
+}
+ul {
+    list-style-type: none;
+}
+.image-container {
+    text-align: center;
+}
+
+.image-caption {
+    font-style: italic;
+}
+.al {
+    text-align: left;
+}
+table {
+    border: 1px solid black;
+}
+td, tr, th{
+    border: 1px solid black;
+    padding: 8px;
+}
